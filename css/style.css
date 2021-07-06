@@ -1,0 +1,22 @@
+* {
+    color: #009345;
+    font-family: monospace;
+
+    background-color: rgb(21, 26, 21);
+}
+
+body {
+    overflow: hidden; /* Hide scrollbars */
+  }
+
+.weed {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+
+    font-size: 3.7em;
+    font-weight: bold;
+}
